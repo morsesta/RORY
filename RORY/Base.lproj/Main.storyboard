@@ -382,7 +382,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="IUe-PQ-JM4" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="404" y="3156.0719640179914"/>
+            <point key="canvasLocation" x="3287" y="2317"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="AcS-HB-sB5">
@@ -410,7 +410,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="axG-w9-szF" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1136" y="3156"/>
+            <point key="canvasLocation" x="4233" y="2317"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="ZYd-Vy-OhN">
@@ -506,98 +506,9 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Jt2-pA-nvZ" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-535.20000000000005" y="3156.0719640179914"/>
+            <point key="canvasLocation" x="2449" y="2317"/>
         </scene>
-        <!--Book-->
-        <scene sceneID="0Jr-io-c8C">
-            <objects>
-                <viewController id="a8x-VW-9Yx" sceneMemberID="viewController">
-                    <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="GqR-AB-ZkP"/>
-                        <viewControllerLayoutGuide type="bottom" id="Lpb-pf-NN8"/>
-                    </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="PqU-qS-QWQ">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="1400"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="rory Book" translatesAutoresizingMaskIntoConstraints="NO" id="e2Y-vE-eUX">
-                                <rect key="frame" x="61" y="72" width="253" height="315"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="Bsr-tv-gJQ">
-                                <rect key="frame" x="27" y="432" width="321" height="204"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                <string key="text">When Rory meets his friend Sheldon's pet crab, he realizes he wants a pet of his own. He searches high and low--from tree tops to sand pits--for a creature to love. It's at the end of a long day, when Rory least expects it, that he meets George.
-
-Comic artist Liz Climo celebrates the bond between child and pet with her adorable, deceptively simple illustrations and her timeless story of a child's quest for companionship.</string>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
-                            </textView>
-                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Rory the Dinosaur wants a pet !" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="oi1-kh-Ti7">
-                                <rect key="frame" x="37" y="394" width="301" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                <color key="textColor" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
-                                <textInputTraits key="textInputTraits"/>
-                            </textField>
-                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Rory The Dinosaur Me and My Dad !" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="FmT-3r-sXm">
-                                <rect key="frame" x="42" y="1021" width="301" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                <color key="textColor" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
-                                <textInputTraits key="textInputTraits"/>
-                            </textField>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="lgS-KB-d4t">
-                                <rect key="frame" x="32" y="1059" width="321" height="239"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                <string key="text">Rory and his father - two stegosaurish green dinosaurs - enjoy the simple island life, but when dad needs a break from Rory’s unceasing energy, Rory seeks adventure on his own. Readers will see what Rory doesn’t; that each step of the way, his father is hidden nearby, ensuring his son’s safety. Green rocks materialize as Rory tries to cross a river (they’re actually his father’s spines), and Rory’s roar isn’t the only one scaring away a wild pig. Shot through with tender humor, this is a knowing look at the ways that a father allows his child to grow - Publisher’s Weekly</string>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
-                            </textView>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jHl-y6-ff8">
-                                <rect key="frame" x="120" y="644" width="135" height="25"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="Buy now" image="Shopping Cart"/>
-                            </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Czt-Ih-1Rj">
-                                <rect key="frame" x="120" y="1306" width="135" height="25"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="Buy now" image="Shopping Cart"/>
-                            </button>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="RORY meAndDad" translatesAutoresizingMaskIntoConstraints="NO" id="wME-4t-W1A">
-                                <rect key="frame" x="0.0" y="741" width="375" height="272"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
-                        </subviews>
-                        <color key="backgroundColor" red="1" green="0.74446096220000002" blue="0.05015115178" alpha="1" colorSpace="calibratedRGB"/>
-                    </view>
-                    <navigationItem key="navigationItem" title="Book" id="0IX-xK-CRi">
-                        <textField key="titleView" opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Book" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" id="SR5-mA-93n">
-                            <rect key="frame" x="113" y="7" width="150" height="30"/>
-                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                            <textInputTraits key="textInputTraits"/>
-                        </textField>
-                    </navigationItem>
-                    <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
-                    <size key="freeformSize" width="375" height="1400"/>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="TW1-kT-wB5" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="1213.5999999999999" y="4893.5532233883059"/>
-        </scene>
-        <!--View Controller-->
+        <!--Gift-->
         <scene sceneID="j2F-ID-J5T">
             <objects>
                 <viewController id="ADZ-Iu-WXF" sceneMemberID="viewController">
@@ -612,6 +523,7 @@ Comic artist Liz Climo celebrates the bond between child and pet with her adorab
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="mark cup" translatesAutoresizingMaskIntoConstraints="NO" id="cnT-Lo-sEm">
                                 <rect key="frame" x="37" y="64" width="301" height="380"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                             </imageView>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="I'M SO SO SO CUTE!  BUY ME !" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GJP-po-8TK">
                                 <rect key="frame" x="37" y="470" width="301" height="77"/>
@@ -628,37 +540,28 @@ Comic artist Liz Climo celebrates the bond between child and pet with her adorab
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2NX-Eo-Wp4">
-                                <rect key="frame" x="125" y="536" width="125" height="25"/>
+                                <rect key="frame" x="130" y="522" width="114" height="25"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="Buy now" image="Shopping Cart"/>
+                                <color key="backgroundColor" red="0.24123526049999999" green="0.68475759390000002" blue="0.97532291670000004" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="  Buy" image="Shopping Cart"/>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" red="1" green="0.74446096220000002" blue="0.05015115178" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
-                    <navigationItem key="navigationItem" id="dpy-OY-C64">
-                        <nil key="title"/>
-                        <textField key="titleView" opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Gift" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" id="4dL-M1-0SG">
-                            <rect key="frame" x="113" y="7" width="150" height="30"/>
-                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                            <textInputTraits key="textInputTraits"/>
-                        </textField>
-                    </navigationItem>
+                    <navigationItem key="navigationItem" title="Gift" id="dpy-OY-C64"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="2k1-E3-bfw" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2728.8000000000002" y="4539.5802098950526"/>
+            <point key="canvasLocation" x="1249" y="5583"/>
         </scene>
-        <!--Table View Controller-->
+        <!--Shop-->
         <scene sceneID="4ui-rW-oW7">
             <objects>
                 <tableViewController id="XoO-Xz-shA" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="static" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" id="XHx-xA-IEp">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" red="1" green="0.74446096220000002" blue="0.05015115178" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="0.87682291670000001" green="0.66658669510000002" blue="0.79059407319999997" alpha="1" colorSpace="calibratedRGB"/>
                         <sections>
                             <tableViewSection headerTitle="Category" id="Vek-jI-rIB">
                                 <cells>
@@ -666,42 +569,44 @@ Comic artist Liz Climo celebrates the bond between child and pet with her adorab
                                         <rect key="frame" x="0.0" y="28" width="375" height="173"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="gH8-Dj-spl" id="Ebk-Ik-EwP">
-                                            <rect key="frame" x="0.0" y="0.0" width="342" height="172.5"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="342" height="172"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Book" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="AjK-mY-1HC">
                                                     <rect key="frame" x="52" y="64" width="238" height="45"/>
                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                    <color key="backgroundColor" red="1" green="0.94576959299999996" blue="0.87916578739999995" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <color key="backgroundColor" red="0.98039215686274506" green="0.88235294117647056" blue="0.94509803921568625" alpha="1" colorSpace="calibratedRGB"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="35"/>
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                             </subviews>
-                                            <color key="backgroundColor" red="1" green="0.74446096220000002" blue="0.05015115178" alpha="1" colorSpace="calibratedRGB"/>
+                                            <color key="backgroundColor" red="0.87682291670000001" green="0.66658669510000002" blue="0.79059407319999997" alpha="1" colorSpace="calibratedRGB"/>
                                         </tableViewCellContentView>
+                                        <color key="backgroundColor" red="1" green="0.90015939150000002" blue="0.96875715610000002" alpha="1" colorSpace="calibratedRGB"/>
                                         <connections>
-                                            <segue destination="a8x-VW-9Yx" kind="show" id="ztx-wQ-aza"/>
+                                            <segue destination="MS9-Es-qwc" kind="show" id="5y4-vv-zeL"/>
                                         </connections>
                                     </tableViewCell>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" accessoryType="disclosureIndicator" indentationWidth="10" rowHeight="173" id="Dyq-rf-2xO">
                                         <rect key="frame" x="0.0" y="201" width="375" height="173"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Dyq-rf-2xO" id="SmY-41-uXY">
-                                            <rect key="frame" x="0.0" y="0.0" width="342" height="172.5"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="342" height="172"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="PhoneCase" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2pm-yC-7Vc">
                                                     <rect key="frame" x="52" y="62" width="238" height="48"/>
                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                    <color key="backgroundColor" red="1" green="0.94576959299999996" blue="0.87916578739999995" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <color key="backgroundColor" red="1" green="0.90015939150000002" blue="0.96875715610000002" alpha="1" colorSpace="calibratedRGB"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="35"/>
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                             </subviews>
-                                            <color key="backgroundColor" red="1" green="0.74446096220000002" blue="0.05015115178" alpha="1" colorSpace="calibratedRGB"/>
+                                            <color key="backgroundColor" red="0.87682291670000001" green="0.66658669510000002" blue="0.79059407319999997" alpha="1" colorSpace="calibratedRGB"/>
                                         </tableViewCellContentView>
+                                        <color key="backgroundColor" red="1" green="0.90015939150000002" blue="0.96875715610000002" alpha="1" colorSpace="calibratedRGB"/>
                                         <connections>
                                             <segue destination="Vc2-PT-qm2" kind="show" id="VkE-SN-hsg"/>
                                         </connections>
@@ -710,20 +615,21 @@ Comic artist Liz Climo celebrates the bond between child and pet with her adorab
                                         <rect key="frame" x="0.0" y="374" width="375" height="173"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Q1u-hK-NdB" id="4dG-2c-CfA">
-                                            <rect key="frame" x="0.0" y="0.0" width="342" height="172.5"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="342" height="172"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Other" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WP2-2q-9dw">
                                                     <rect key="frame" x="52" y="62" width="238" height="48"/>
                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                    <color key="backgroundColor" red="1" green="0.94576959299999996" blue="0.87916578739999995" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <color key="backgroundColor" red="1" green="0.90015939150000002" blue="0.96875715610000002" alpha="1" colorSpace="calibratedRGB"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="35"/>
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                             </subviews>
-                                            <color key="backgroundColor" red="1" green="0.74446096220000002" blue="0.05015115178" alpha="1" colorSpace="calibratedRGB"/>
+                                            <color key="backgroundColor" red="0.87682291670000001" green="0.66658669510000002" blue="0.79059407319999997" alpha="1" colorSpace="calibratedRGB"/>
                                         </tableViewCellContentView>
+                                        <color key="backgroundColor" red="1" green="0.90015939150000002" blue="0.96875715610000002" alpha="1" colorSpace="calibratedRGB"/>
                                         <connections>
                                             <segue destination="ADZ-Iu-WXF" kind="show" id="kmZ-s9-Kfz"/>
                                         </connections>
@@ -732,20 +638,21 @@ Comic artist Liz Climo celebrates the bond between child and pet with her adorab
                                         <rect key="frame" x="0.0" y="547" width="375" height="173"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="WRU-f7-1f8" id="vDp-3a-lxw">
-                                            <rect key="frame" x="0.0" y="0.0" width="342" height="172.5"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="342" height="172"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Custom" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Gly-hk-SOh">
                                                     <rect key="frame" x="52" y="62" width="238" height="48"/>
                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                    <color key="backgroundColor" red="1" green="0.94576959299999996" blue="0.87916578739999995" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <color key="backgroundColor" red="1" green="0.90015939150000002" blue="0.96875715610000002" alpha="1" colorSpace="calibratedRGB"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="35"/>
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                             </subviews>
-                                            <color key="backgroundColor" red="1" green="0.74446096220000002" blue="0.05015115178" alpha="1" colorSpace="calibratedRGB"/>
+                                            <color key="backgroundColor" red="0.87682291670000001" green="0.66658669510000002" blue="0.79059407319999997" alpha="1" colorSpace="calibratedRGB"/>
                                         </tableViewCellContentView>
+                                        <color key="backgroundColor" red="1" green="0.90015939150000002" blue="0.96875715610000002" alpha="1" colorSpace="calibratedRGB"/>
                                     </tableViewCell>
                                 </cells>
                             </tableViewSection>
@@ -755,25 +662,16 @@ Comic artist Liz Climo celebrates the bond between child and pet with her adorab
                             <outlet property="delegate" destination="XoO-Xz-shA" id="U3Y-bs-k3s"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" id="zKA-gk-jgh">
-                        <nil key="title"/>
-                        <textField key="titleView" opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Shop " borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" id="VmW-uT-cd0">
-                            <rect key="frame" x="113" y="7" width="150" height="30"/>
-                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                            <nil key="textColor"/>
-                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                            <textInputTraits key="textInputTraits"/>
-                        </textField>
-                    </navigationItem>
+                    <navigationItem key="navigationItem" title="Shop" id="zKA-gk-jgh"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="hn1-mf-xx0" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="404" y="4539.5802098950526"/>
+            <point key="canvasLocation" x="330" y="5015"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="YG7-ZA-ltf">
             <objects>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="xED-KG-rbW" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <tabBarController id="Ncb-bA-hTB" sceneMemberID="viewController">
                     <tabBar key="tabBar" contentMode="scaleToFill" id="iRE-83-ntc">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="49"/>
@@ -782,15 +680,14 @@ Comic artist Liz Climo celebrates the bond between child and pet with her adorab
                     </tabBar>
                     <connections>
                         <segue destination="cDZ-B8-esy" kind="relationship" relationship="viewControllers" id="csr-je-zfG"/>
-                        <segue destination="ncl-ho-fDf" kind="relationship" relationship="viewControllers" id="1xP-e6-erd"/>
                         <segue destination="qey-Ng-ce3" kind="relationship" relationship="viewControllers" id="ySv-gI-cae"/>
                         <segue destination="aD5-E7-aRe" kind="relationship" relationship="viewControllers" id="dQP-ha-uFz"/>
                         <segue destination="UWu-kZ-eau" kind="relationship" relationship="viewControllers" id="Hia-4Z-uuX"/>
+                        <segue destination="S4S-k8-Dwi" kind="relationship" relationship="viewControllers" id="SJU-Mg-oKb"/>
                     </connections>
                 </tabBarController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="xED-KG-rbW" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1243" y="4324"/>
+            <point key="canvasLocation" x="-3441" y="6285"/>
         </scene>
         <!--Email-->
         <scene sceneID="0Yx-Le-iTu">
@@ -809,7 +706,7 @@ Comic artist Liz Climo celebrates the bond between child and pet with her adorab
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="658-Qq-GDY" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-404" y="3844"/>
+            <point key="canvasLocation" x="-404" y="3618"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="aVv-of-O6G">
@@ -823,10 +720,10 @@ Comic artist Liz Climo celebrates the bond between child and pet with her adorab
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Follow me on other social media! " borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Lec-K1-8ul">
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Follow me on other social media! " textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Lec-K1-8ul">
                                 <rect key="frame" x="24" y="98" width="313" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" red="0.93725490199999995" green="0.93725490199999995" blue="0.95686274510000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
@@ -834,9 +731,10 @@ Comic artist Liz Climo celebrates the bond between child and pet with her adorab
                                 <rect key="frame" x="24" y="160" width="327" height="153"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                <mutableString key="text">I’d love to see my comics available in every language or for the world to enjoy, but before translating, please contact Kathleen Ortiz at kortiz@newleafliterary.com to ensure it doesn’t conflict with a translation already in progress.
+                                <string key="text">I’d love to see my comics available in every language or for the world to enjoy, but before translating, please contact Kathleen Ortiz at kortiz@newleafliterary.com to ensure it doesn’t conflict with a translation already in progress.
 
-Wanna say hi? Okay! Go ahead and email me: liz.climo@yahoo.com</mutableString>
+Wanna say hi? Okay! Go ahead and email me: liz.climo@yahoo.com</string>
+                                <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -851,10 +749,10 @@ Wanna say hi? Okay! Go ahead and email me: liz.climo@yahoo.com</mutableString>
                                 </connections>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" red="0.35533854650000002" green="0.89277905690000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="0.39043279930000002" green="0.84723958330000004" blue="0.83630883349999996" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
                     <navigationItem key="navigationItem" id="LJ5-io-QDj">
-                        <textField key="titleView" opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Email me" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" id="5i9-ZP-Imo">
+                        <textField key="titleView" opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Follow" textAlignment="center" minimumFontSize="17" id="5i9-ZP-Imo">
                             <rect key="frame" x="139" y="7" width="97" height="30"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
@@ -866,12 +764,11 @@ Wanna say hi? Okay! Go ahead and email me: liz.climo@yahoo.com</mutableString>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="m1k-fr-0Gw" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="404" y="3843.3283358320841"/>
+            <point key="canvasLocation" x="409" y="3618"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="WXJ-9B-63u">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="9M6-er-Y3r" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <viewController id="sCO-Gg-neT" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="JLt-OT-jjf"/>
@@ -881,10 +778,9 @@ Wanna say hi? Okay! Go ahead and email me: liz.climo@yahoo.com</mutableString>
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Thanks for following me!" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="TB5-wg-C7X">
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Thanks for following me!" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="TB5-wg-C7X">
                                 <rect key="frame" x="69" y="101" width="237" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" red="0.93725490199999995" green="0.93725490199999995" blue="0.95686274510000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
@@ -905,56 +801,57 @@ Wanna say hi? Okay! Go ahead and email me: liz.climo@yahoo.com</mutableString>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
-                        <color key="backgroundColor" red="0.35533854650000002" green="0.89277905690000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="0.39043279930000002" green="0.84723958330000004" blue="0.83630883349999996" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="9M6-er-Y3r" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1213.5999999999999" y="3842.4287856071969"/>
+            <point key="canvasLocation" x="1249" y="3618"/>
         </scene>
         <!--Event-->
-        <scene sceneID="0U9-HL-3F9">
+        <scene sceneID="KBV-kL-3XN">
             <objects>
-                <viewController id="ncl-ho-fDf" sceneMemberID="viewController">
+                <viewController id="S4S-k8-Dwi" sceneMemberID="viewController">
                     <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="m82-IX-5c6"/>
-                        <viewControllerLayoutGuide type="bottom" id="uoG-rp-ISq"/>
+                        <viewControllerLayoutGuide type="top" id="JKw-8z-1Fv"/>
+                        <viewControllerLayoutGuide type="bottom" id="VeV-Tb-rLC"/>
                     </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="2Cp-yl-aqa">
+                    <view key="view" contentMode="scaleToFill" id="A3W-DG-PwH">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="halloween" translatesAutoresizingMaskIntoConstraints="NO" id="FSE-dU-rpT">
-                                <rect key="frame" x="0.0" y="89" width="375" height="128"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="halloween" translatesAutoresizingMaskIntoConstraints="NO" id="KTO-w8-R1z">
+                                <rect key="frame" x="0.0" y="36" width="375" height="159"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Halloween is coming !" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fNV-bO-4bt">
-                                <rect key="frame" x="16" y="39" width="343" height="42"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Halloween is coming ! " textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FOI-hU-myg">
+                                <rect key="frame" x="16" y="203" width="343" height="48"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" style="UICTFontTextStyleHeadline"/>
-                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Wnw-On-FgS">
-                                <rect key="frame" x="38" y="251" width="299" height="128"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="pig" translatesAutoresizingMaskIntoConstraints="NO" id="ZiE-q7-3w7">
+                                <rect key="frame" x="79" y="351" width="217" height="159"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="Dress up Animals! Get your best costume and come out show us to win Big prize! May the odds be ever in your favor! " selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jzs-Uo-b1D">
+                                <rect key="frame" x="16" y="251" width="343" height="60"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                <string key="text">Dress up ! Animal !  Be prepareed ! Think about how your dresscode will be. Let's win the big prize by showing me your best costume.</string>
-                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="tintColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="pig" translatesAutoresizingMaskIntoConstraints="NO" id="GrH-ZQ-R17">
-                                <rect key="frame" x="59" y="401" width="257" height="152"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
                         </subviews>
-                        <color key="backgroundColor" red="0.24123526054196096" green="0.68475759389929236" blue="0.97532291670000004" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="0.24123526049999999" green="0.68475759390000002" blue="0.97532291670000004" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Event" image="Calendar-50" id="MJx-XH-O1x"/>
+                    <tabBarItem key="tabBarItem" title="Event" image="Calendar-50" id="SUQ-pm-kF1"/>
                 </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="uWy-m9-4ub" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="tFr-mj-n5z" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-2159.1999999999998" y="5283.5082458770621"/>
+            <point key="canvasLocation" x="-1649" y="7872"/>
         </scene>
         <!--About-->
         <scene sceneID="BLZ-Si-4vZ">
@@ -965,7 +862,7 @@ Wanna say hi? Okay! Go ahead and email me: liz.climo@yahoo.com</mutableString>
                         <viewControllerLayoutGuide type="bottom" id="nKK-sQ-V4X"/>
                     </layoutGuides>
                     <view key="view" contentMode="left" id="EHI-z7-f4n">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="1300"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="elephant" translatesAutoresizingMaskIntoConstraints="NO" id="1vg-S1-ght">
@@ -998,9 +895,9 @@ Wanna say hi? Okay! Go ahead and email me: liz.climo@yahoo.com</mutableString>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" pagingEnabled="YES" editable="NO" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="8Jq-bp-sWu">
-                                <rect key="frame" x="24" y="457" width="327" height="1500"/>
+                                <rect key="frame" x="24" y="415" width="327" height="195"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" red="0.80000001190000003" green="1" blue="0.40000000600000002" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.39043279933759611" green="0.84723958333333338" blue="0.83630883348882767" alpha="1" colorSpace="calibratedRGB"/>
                                 <string key="text">How do you draw these stupid comics?
 
 (Okay, I may have added the stupid part. Nobody has actually said that to me. Yet.) I draw on an ancient Cintiq Tablet into an even more ancient version of Photoshop. 
@@ -1028,15 +925,13 @@ I would be happy to! Sometimes it takes a little bit of time for me to write bac
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                         </subviews>
-                        <color key="backgroundColor" red="0.80000001190000003" green="1" blue="0.40000000600000002" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="0.39043279933759611" green="0.84723958333333338" blue="0.83630883348882767" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
                     <tabBarItem key="tabBarItem" title="About" image="User" id="1MS-Zh-iNO"/>
-                    <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
-                    <size key="freeformSize" width="375" height="1300"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="e2L-NY-LoF" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1244" y="5413"/>
+            <point key="canvasLocation" x="-468" y="7873"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="BiM-Tv-gav">
@@ -1067,7 +962,7 @@ I would be happy to! Sometimes it takes a little bit of time for me to write bac
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="hc2-gD-Se8" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="297" y="6350"/>
+            <point key="canvasLocation" x="1249" y="6285"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="rtN-hS-Tlj">
@@ -1097,9 +992,9 @@ I would be happy to! Sometimes it takes a little bit of time for me to write bac
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="hcX-Ip-jg2" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1022" y="6350"/>
+            <point key="canvasLocation" x="2070" y="6285"/>
         </scene>
-        <!--Table View Controller-->
+        <!--Story-->
         <scene sceneID="0y4-M4-5DM">
             <objects>
                 <tableViewController id="Zeo-zQ-ElX" sceneMemberID="viewController">
@@ -1257,21 +1152,11 @@ I would be happy to! Sometimes it takes a little bit of time for me to write bac
                             <outlet property="delegate" destination="Zeo-zQ-ElX" id="KAT-Gx-g8F"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" id="VQy-wj-Tex">
-                        <nil key="title"/>
-                        <textField key="titleView" opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Story" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" id="czE-DH-6rT">
-                            <rect key="frame" x="113" y="7" width="150" height="30"/>
-                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                            <nil key="textColor"/>
-                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                            <textInputTraits key="textInputTraits"/>
-                        </textField>
-                    </navigationItem>
+                    <navigationItem key="navigationItem" title="Story" id="VQy-wj-Tex"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="tek-0n-WTw" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-458" y="6351"/>
+            <point key="canvasLocation" x="329" y="6821"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="RU2-bm-LcY">
@@ -1301,7 +1186,7 @@ I would be happy to! Sometimes it takes a little bit of time for me to write bac
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="8Dk-Oy-9J6" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="298" y="7036"/>
+            <point key="canvasLocation" x="2070" y="6993"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="ZG7-w9-O5B">
@@ -1331,7 +1216,7 @@ I would be happy to! Sometimes it takes a little bit of time for me to write bac
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="sbi-Pi-cvY" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1737" y="6349"/>
+            <point key="canvasLocation" x="2865" y="6285"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="T6u-Yf-Rgd">
@@ -1361,7 +1246,7 @@ I would be happy to! Sometimes it takes a little bit of time for me to write bac
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="djk-35-r93" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-458" y="7036"/>
+            <point key="canvasLocation" x="1249" y="6993"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="ADI-rl-Qhu">
@@ -1391,7 +1276,7 @@ I would be happy to! Sometimes it takes a little bit of time for me to write bac
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="OFF-cn-lmj" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="972" y="7036"/>
+            <point key="canvasLocation" x="2865" y="6993"/>
         </scene>
         <!--Shop-->
         <scene sceneID="yIr-rk-m8A">
@@ -1410,7 +1295,7 @@ I would be happy to! Sometimes it takes a little bit of time for me to write bac
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="0fl-6l-Nla" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-404" y="4541"/>
+            <point key="canvasLocation" x="-468" y="5015"/>
         </scene>
         <!--Story-->
         <scene sceneID="bR4-Zw-523">
@@ -1429,9 +1314,9 @@ I would be happy to! Sometimes it takes a little bit of time for me to write bac
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="kqN-Xo-xs6" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-457" y="5300"/>
+            <point key="canvasLocation" x="-514" y="6821"/>
         </scene>
-        <!--View Controller-->
+        <!--PhoneCase-->
         <scene sceneID="aaX-9h-iGP">
             <objects>
                 <viewController id="Vc2-PT-qm2" sceneMemberID="viewController">
@@ -1463,33 +1348,209 @@ I would be happy to! Sometimes it takes a little bit of time for me to write bac
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YdL-Ed-fso">
-                                <rect key="frame" x="125" y="536" width="125" height="25"/>
+                                <rect key="frame" x="129" y="518" width="109" height="25"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="Buy now" image="Shopping Cart"/>
+                                <color key="backgroundColor" red="0.24123526049999999" green="0.68475759390000002" blue="0.97532291670000004" alpha="1" colorSpace="calibratedRGB"/>
+                                <state key="normal" title="  Buy " image="Shopping Cart"/>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" red="1" green="0.74446096220000002" blue="0.05015115178" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
-                    <navigationItem key="navigationItem" id="ghT-Kb-Mjv">
-                        <nil key="title"/>
-                        <textField key="titleView" opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="PhoneCase" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" id="w8n-d6-KyS">
-                            <rect key="frame" x="113" y="7" width="150" height="30"/>
-                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                            <textInputTraits key="textInputTraits"/>
-                        </textField>
-                    </navigationItem>
+                    <navigationItem key="navigationItem" title="PhoneCase" id="ghT-Kb-Mjv"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="g0y-ha-oba" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1941.5999999999999" y="4539.5802098950526"/>
+            <point key="canvasLocation" x="1249" y="4934"/>
+        </scene>
+        <!--Book-->
+        <scene sceneID="OTs-iU-QO5">
+            <objects>
+                <tableViewController id="MS9-Es-qwc" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="static" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" id="2st-QC-3qC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <sections>
+                            <tableViewSection id="Ia0-A0-vpJ">
+                                <cells>
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="549" id="DqA-dx-Bj8">
+                                        <rect key="frame" x="0.0" y="0.0" width="375" height="549"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="DqA-dx-Bj8" id="yyy-QA-Uus">
+                                            <rect key="frame" x="0.0" y="0.0" width="375" height="548.5"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="rory Book" translatesAutoresizingMaskIntoConstraints="NO" id="drO-mt-NUq">
+                                                    <rect key="frame" x="0.0" y="16" width="375" height="257"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                </imageView>
+                                                <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="vJ0-D6-PZ8">
+                                                    <rect key="frame" x="8" y="319" width="359" height="128"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                                    <string key="text">When Rory meets his friend Sheldon's pet crab, he realizes he wants a pet of his own. He searches high and low--from tree tops to sand pits--for a creature to love. It's at the end of a long day, when Rory least expects it, that he meets George.
+
+Comic artist Liz Climo celebrates the bond between child and pet with her adorable, deceptively simple illustrations and her timeless story of a child's quest for companionship.</string>
+                                                    <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                                    <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                                </textView>
+                                                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8VG-gh-q1W">
+                                                    <rect key="frame" x="137" y="482" width="93" height="25"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    <color key="backgroundColor" red="0.24123526049999999" green="0.68475759390000002" blue="0.97532291670000004" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <state key="normal" title="Buy" image="Shopping Cart">
+                                                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                                    </state>
+                                                </button>
+                                                <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Rory the Dinosaur wants a pet !" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" background="Instagram_logo" translatesAutoresizingMaskIntoConstraints="NO" id="0Jg-Cd-fhw">
+                                                    <rect key="frame" x="14" y="281" width="339" height="30"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    <color key="textColor" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <fontDescription key="fontDescription" style="UICTFontTextStyleTitle3"/>
+                                                    <textInputTraits key="textInputTraits"/>
+                                                </textField>
+                                            </subviews>
+                                        </tableViewCellContentView>
+                                    </tableViewCell>
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="549" id="NpB-Bu-7qt">
+                                        <rect key="frame" x="0.0" y="549" width="375" height="549"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="NpB-Bu-7qt" id="6E6-MU-bQM">
+                                            <rect key="frame" x="0.0" y="0.0" width="375" height="548.5"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="uMJ-kf-TFl">
+                                                    <rect key="frame" x="8" y="344" width="359" height="128"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                                    <string key="text">Rory and his father - two stegosaurish green dinosaurs - enjoy the simple island life, but when dad needs a break from Rory’s unceasing energy, Rory seeks adventure on his own. Readers will see what Rory doesn’t; that each step of the way, his father is hidden nearby, ensuring his son’s safety. Green rocks materialize as Rory tries to cross a river (they’re actually his father’s spines), and Rory’s roar isn’t the only one scaring away a wild pig. Shot through with tender humor, this is a knowing look at the ways that a father allows his child to grow - Publisher’s Weekly
+</string>
+                                                    <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                                    <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                                </textView>
+                                                <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Rory The Dinosaur Me and My Dad !" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="VCq-hT-J41">
+                                                    <rect key="frame" x="8" y="314" width="359" height="30"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    <color key="textColor" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <fontDescription key="fontDescription" style="UICTFontTextStyleTitle3"/>
+                                                    <textInputTraits key="textInputTraits"/>
+                                                </textField>
+                                                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="RORY meAndDad" translatesAutoresizingMaskIntoConstraints="NO" id="3Kn-hg-fPn">
+                                                    <rect key="frame" x="0.0" y="16" width="375" height="257"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                </imageView>
+                                                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Vgs-Qj-dDj">
+                                                    <rect key="frame" x="133" y="480" width="93" height="25"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    <color key="backgroundColor" red="0.24123526049999999" green="0.68475759390000002" blue="0.97532291670000004" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <state key="normal" title="Buy" image="Shopping Cart">
+                                                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                                    </state>
+                                                </button>
+                                            </subviews>
+                                        </tableViewCellContentView>
+                                    </tableViewCell>
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="549" id="wrv-U7-09p">
+                                        <rect key="frame" x="0.0" y="1098" width="375" height="549"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="wrv-U7-09p" id="wVg-b0-lhp">
+                                            <rect key="frame" x="0.0" y="0.0" width="375" height="548.5"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="Z0a-kF-eln">
+                                                    <rect key="frame" x="8" y="344" width="359" height="128"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                                    <mutableString key="text">My first comic compilation, featuring the comics seen here on my blog, and many book-exclusive comics, available here!
+
+Also available in these languages: France (Delcourt), Germany (Lübbe), Japan (Asuka Shinsha Co.), Korea (Rubybox Publisher Co.), China (Elegant People Books), Taiwan (Grimm press) &amp; Vietnam (Kim Dong)</mutableString>
+                                                    <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                                    <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                                </textView>
+                                                <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="The Little World of Liz" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="xi2-1Z-n2k">
+                                                    <rect key="frame" x="8" y="314" width="359" height="30"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    <color key="textColor" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <fontDescription key="fontDescription" style="UICTFontTextStyleTitle3"/>
+                                                    <textInputTraits key="textInputTraits"/>
+                                                </textField>
+                                                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="bookLittleWorldOfLizClimo" translatesAutoresizingMaskIntoConstraints="NO" id="wP8-9P-P06">
+                                                    <rect key="frame" x="0.0" y="16" width="375" height="257"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                </imageView>
+                                                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oyK-aZ-fhQ">
+                                                    <rect key="frame" x="133" y="480" width="93" height="25"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    <color key="backgroundColor" red="0.24123526049999999" green="0.68475759390000002" blue="0.97532291670000004" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <state key="normal" title="Buy" image="Shopping Cart">
+                                                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                                    </state>
+                                                </button>
+                                            </subviews>
+                                        </tableViewCellContentView>
+                                    </tableViewCell>
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="549" id="Z2C-H4-bUn">
+                                        <rect key="frame" x="0.0" y="1647" width="375" height="549"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Z2C-H4-bUn" id="00S-O4-8cv">
+                                            <rect key="frame" x="0.0" y="0.0" width="375" height="548.5"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="zbA-1e-Bop">
+                                                    <rect key="frame" x="8" y="344" width="359" height="128"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                                    <string key="text">A Collection of Comics About Friendship.
+
+A book devoted to friendship, featuring comics from my blog and many book-exclusive comics. Makes a great gift!</string>
+                                                    <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                                    <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                                </textView>
+                                                <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Lobster is The Best Medicine" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="9oP-cR-dMB">
+                                                    <rect key="frame" x="8" y="314" width="359" height="30"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    <color key="textColor" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <fontDescription key="fontDescription" style="UICTFontTextStyleTitle3"/>
+                                                    <textInputTraits key="textInputTraits"/>
+                                                </textField>
+                                                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="bookTheBestMedicine" translatesAutoresizingMaskIntoConstraints="NO" id="GoX-8C-y9A">
+                                                    <rect key="frame" x="0.0" y="16" width="375" height="257"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                </imageView>
+                                                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9qQ-0D-0vv">
+                                                    <rect key="frame" x="133" y="480" width="93" height="25"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    <color key="backgroundColor" red="0.24123526049999999" green="0.68475759390000002" blue="0.97532291670000004" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <state key="normal" title="Buy" image="Shopping Cart">
+                                                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                                    </state>
+                                                </button>
+                                            </subviews>
+                                        </tableViewCellContentView>
+                                    </tableViewCell>
+                                </cells>
+                            </tableViewSection>
+                        </sections>
+                        <connections>
+                            <outlet property="dataSource" destination="MS9-Es-qwc" id="mkL-b8-jsK"/>
+                            <outlet property="delegate" destination="MS9-Es-qwc" id="hoc-Ib-Dyv"/>
+                        </connections>
+                    </tableView>
+                    <navigationItem key="navigationItem" title="Book" id="6DX-VL-ov5"/>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="swt-ur-2kq" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1249" y="4267"/>
         </scene>
     </scenes>
     <resources>
         <image name="Calendar-50" width="25" height="25"/>
         <image name="Dinner" width="640" height="800"/>
+        <image name="Instagram_logo" width="640" height="713"/>
         <image name="List Story" width="25" height="25"/>
         <image name="Message" width="25" height="25"/>
         <image name="RORY meAndDad" width="309" height="351"/>
@@ -1498,6 +1559,8 @@ I would be happy to! Sometimes it takes a little bit of time for me to write bac
         <image name="Twitter_bird_logo" width="629" height="512"/>
         <image name="User" width="25" height="25"/>
         <image name="alarm" width="640" height="826"/>
+        <image name="bookLittleWorldOfLizClimo" width="640" height="653"/>
+        <image name="bookTheBestMedicine" width="640" height="896"/>
         <image name="breathe" width="300" height="472"/>
         <image name="elephant" width="640" height="457"/>
         <image name="facebook logo" width="1000" height="1000"/>
